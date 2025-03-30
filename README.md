@@ -23,7 +23,7 @@
 
 2. Клонируйте репозиторий:
    ```bash
-   git clone https://github.com/rick_and_morty_app.git
+   git clone https://github.com/DiMM2021/rick_and_morty_app.git
 
 3. Перейдите в директорию проекта:
    cd rick_and_morty_app 
